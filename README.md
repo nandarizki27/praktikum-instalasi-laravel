@@ -1,4 +1,4 @@
- 📦 PRAKTIKUM INSTALASI DAN KONFIGURASI LARAVEL
+# 📦 PRAKTIKUM INSTALASI DAN KONFIGURASI LARAVEL
 
 Dokumen ini berisi rangkuman langkah-langkah praktikum mata kuliah Rekayasa Web mengenai instalasi, konfigurasi dasar, *routing*, dan penggunaan Blade Template Engine di Laravel.
 
