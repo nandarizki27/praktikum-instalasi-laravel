@@ -1,9 +1,3 @@
-Tentu, Bos\! Saya sudah menyiapkan *file* `README.md` lengkap yang siap Anda *copy-paste* langsung ke *root* folder proyek Anda (`praktikum-instalasi-laravel/README.md`).
-
-*README* ini sudah rapi, mencantumkan identitas Anda, rangkuman langkah-langkah, dan yang terpenting, **sudah menyertakan kode Markdown untuk menampilkan ketiga *screenshot* Anda** dari folder `screenshots`.
-
------
-
 # 📦 PRAKTIKUM INSTALASI DAN KONFIGURASI LARAVEL
 
 Dokumen ini berisi rangkuman langkah-langkah praktikum mata kuliah Rekayasa Web mengenai instalasi, konfigurasi dasar, *routing*, dan penggunaan Blade Template Engine di Laravel.
