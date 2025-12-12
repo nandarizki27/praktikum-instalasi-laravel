@@ -79,20 +79,19 @@ Berikut adalah hasil akhir tampilan antarmuka yang sudah diimplementasikan di pr
 
 ### A. Halaman Utama (Welcome Page)
 
-**Nama File Gambar:** `01-welcome-page.jpg`
+**Nama File Gambar:** 
 ![Halaman Utama](screenshots/01-welcome-page.jpg)
 
 
 ### B. Halaman Profil Mahasiswa
 
-**Nama File Gambar:** `02-profil-page.jpg`
+**Nama File Gambar:**
 ![Halaman Profil Mahasiswa](screenshots/02-profil-page.jpg)
 
 
 ### C. Halaman Dashboard (Menggunakan Blade Layout)
 
-**Nama File Gambar:** `03-dashboard-page.png`
-![Halaman Dashboard](screenshots/03-dashboard-page.png)
+![Halaman Dashboard](screenshots/03-dashboard-page.jpg)
 
 -----
 
